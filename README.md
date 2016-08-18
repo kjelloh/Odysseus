@@ -14,8 +14,13 @@ Scanning dependencies of target Odysseus
 
 kjell-olovhogdahl@KJELL-OLOVHA74E MINGW64 /c/Users/kjell-olovhogdahl/Documents/GitHub/Odysseus/build/build_msys2_clang
 $ ./Odysseus.exe
+
+Built with Clang Compiler
+
+kjell-olovhogdahl@KJELL-OLOVHA74E MINGW64 /c/Users/kjell-olovhogdahl/Documents/GitHub/Odysseus/build/build_msys2_clang
+$ 
 ```
-**Built with Clang Compiler**
+
 ```
 kjell-olovhogdahl@KJELL-OLOVHA74E MINGW64 /c/Users/kjell-olovhogdahl/Documents/GitHub/Odysseus/build/build_msys2_clang
 $
@@ -33,8 +38,13 @@ Scanning dependencies of target Odysseus
 
 kjell-olovhogdahl@KJELL-OLOVHA74E MINGW64 /c/Users/kjell-olovhogdahl/Documents/GitHub/Odysseus/build/build_msys2
 $ ./Odysseus.exe
+
+Built with GCC Compiler
+
+kjell-olovhogdahl@KJELL-OLOVHA74E MINGW64 /c/Users/kjell-olovhogdahl/Documents/GitHub/Odysseus/build/build_msys2
+$ 
 ```
-**Built with GCC Compiler**
+
 ```
 kjell-olovhogdahl@KJELL-OLOVHA74E MINGW64 /c/Users/kjell-olovhogdahl/Documents/GitHub/Odysseus/build/build_msys2
 $
@@ -57,9 +67,9 @@ $
 // DOS console
 
 C:\Users\kjell-olovhogdahl\Documents\GitHub\Odysseus\build\build_vs\Debug>Odysseus.exe
-```
-**Built with Visual Studio Compiler**
-```
+
+Built with Visual Studio Compiler
+
 C:\Users\kjell-olovhogdahl\Documents\GitHub\Odysseus\build\build_vs\Debug>
 
 ```
